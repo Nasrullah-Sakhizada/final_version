@@ -1,0 +1,21 @@
+# # Python
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+
+# # Virtual environments
+# venv/
+# .env/
+
+# # Docker
+# *.log
+
+# # MacOS
+# .DS_Store
+
+# # Windows
+# Thumbs.db
+
+# # IDEs (VS Code)
+# .vscode/
