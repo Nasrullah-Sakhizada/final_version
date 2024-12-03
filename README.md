@@ -11,10 +11,10 @@ About the Game:
   *You lose all your lives (GAME OVER ).
 
 Features:
-- Fun ASCII art for each stage of the game.
 - Tracks guessed letters to avoid repeated inputs.
 - Clear and user-friendly interface.
 - Handles edge cases like invalid inputs or repeated guesses.
+- 
 Dockerization:
 - How to Build the Docker Image:
 '''bash
