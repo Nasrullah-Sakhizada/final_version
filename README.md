@@ -1,6 +1,5 @@
 HANGMAN GAME
 implemented in Python! 
-
 About the Game:
 - Guess letters to uncover the hidden word.
 - You have "10 lives" to guess the word correctly.
@@ -8,12 +7,10 @@ About the Game:
 - The game ends when:
   *You guess the word correctly (YOU WIN ).
   *You lose all your lives (GAME OVER ).
-
 Features:
 - Tracks guessed letters to avoid repeated inputs.
 - Clear and user-friendly interface.
 - Handles edge cases like invalid inputs or repeated guesses.
-
 Dockerization:
 - How to Build the Docker Image:
 '''bash
@@ -21,7 +18,6 @@ Dockerization:
 -How to Run the Docker Container:
 '''bash:
 ---docker run --rm -it hangman-game
-
  Unit and Integration Tests:
 How to run the test:
 - Install pytest:
