@@ -1,4 +1,3 @@
-
 HANGMAN GAME
 implemented in Python! 
 
@@ -14,7 +13,7 @@ Features:
 - Tracks guessed letters to avoid repeated inputs.
 - Clear and user-friendly interface.
 - Handles edge cases like invalid inputs or repeated guesses.
-- 
+
 Dockerization:
 - How to Build the Docker Image:
 '''bash
